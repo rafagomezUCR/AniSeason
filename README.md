@@ -1,6 +1,6 @@
-# myanimelistapp
+# Anime Season App
 
-myanimelist app
+Anime Season App
 
 ## Getting Started
 
