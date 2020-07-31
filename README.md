@@ -4,7 +4,9 @@ AniSeason is an app built with flutter using the Jikan api, which is used to loo
 
 # Download App
 
-
+![image](https://github.com/rafagomezUCR/AniSeason/blob/master/assets/screenshots/Screenshot_1595447797.png)
+![image](https://github.com/rafagomezUCR/AniSeason/blob/master/assets/screenshots/Screenshot_1595447803.png)
+![image](https://github.com/rafagomezUCR/AniSeason/blob/master/assets/screenshots/Screenshot_1595447853.png)
 
 ## Getting Started
 
