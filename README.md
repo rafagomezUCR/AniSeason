@@ -1,6 +1,10 @@
-# myanimelistapp
+# Anime Season App
 
-myanimelist app
+AniSeason is an app built with flutter using the Jikan api, which is used to look through the different season of anime.
+
+# Download App
+
+
 
 ## Getting Started
 
